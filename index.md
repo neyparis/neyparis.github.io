@@ -43,7 +43,7 @@
                             <div class="collapse navbar-collapse" id="ca-navbar">
                                 <ul class="navbar-nav ml-auto" id="nav">
                                     <li class="nav-item active"><a class="nav-link" href="#home">Home</a></li>
-                                    >
+                                    
                                 </ul>
                                 <div class="sing-up-button d-lg-none">
                                     <a href="#">Sign Up Free</a>
